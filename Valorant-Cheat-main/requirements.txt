@@ -1,0 +1,9 @@
+keyboard==0.13.5
+colorama==0.4.4
+pynput==1.7.3
+pyfiglet==0.8.post1
+pywin32==301
+termcolor==1.1.0
+numpy==1.19.5
+d3dshot==0.1.5
+win32gui==221.6
